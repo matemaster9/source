@@ -123,11 +123,12 @@ pre {
 code {
     padding: 1px 5px;
     top: 13px !important;
-    font-family: Inconsolata, Monaco, Consolas, 'Courier New', Courier, monospace;
+    font-family: JetBrainsMono-Regular, Monaco, Consolas, 'Courier New', Courier, monospace;
     font-size: 0.91rem;
     color: black;
-    background-color: yellow;
+    background-color: #f3f4f4;
     border-radius: 2px;
+    padding: 0 1px 0 1px;
 }
 
 .code_copy {
